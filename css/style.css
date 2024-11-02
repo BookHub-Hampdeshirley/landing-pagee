@@ -23,6 +23,10 @@ border-color:#1abc9c;
 }
 /*----------Seccion de introduccion-----------*/
 /*----------Seccion de nosotros----------*/
+#features{
+    background-color: #f8f9fa;
+padding:60px 0;
+}
 /*-------------seccion de caracteristicas-------*/
 /*----------Seccion de Testimonios------*/
 /*--------seccion de Equipo---------*/
